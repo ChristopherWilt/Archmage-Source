@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 56d2dbd4a6649d94c9c7365a4d060504
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuActive: {instanceID: 0}
+  - menuPause: {instanceID: 0}
+  - menuOptions: {instanceID: 0}
+  - menuWin: {instanceID: 0}
+  - menuLose: {instanceID: 0}
+  - menuNextLevel: {instanceID: 0}
+  - goalText: {instanceID: 0}
+  - spellNameText: {instanceID: 0}
+  - spellDiscriptionText: {instanceID: 0}
+  - spellImage: {instanceID: 0}
+  - player: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - playerHPBar: {instanceID: 0}
+  - playerManaBar: {instanceID: 0}
+  - damagePanel: {instanceID: 0}
+  - healPanel: {instanceID: 0}
+  - VolumeSlider: {instanceID: 0}
+  - VolumeMusicSlider: {instanceID: 0}
+  - VolumeSFXSlider: {instanceID: 0}
+  - muteToggle: {instanceID: 0}
+  - enemyInfoPanel: {instanceID: 0}
+  - enemyInfoText: {instanceID: 0}
+  - enemyHealthFill: {instanceID: 0}
+  - logUI: {fileID: 1122141263141650811, guid: 61db71d297a25f04ea2af3b8f027ecae, type: 3}
+  - logTextPrefab: {fileID: 4131125193817244582, guid: 61db71d297a25f04ea2af3b8f027ecae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
